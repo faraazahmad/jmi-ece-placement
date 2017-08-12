@@ -1,0 +1,56 @@
+@media (max-width: 480px) {
+    #banner {
+        height: 100vh;
+    }
+}
+
+.jmi-logo {
+    height: 8em;
+    margin-bottom: 2em;
+}
+
+a:hover {
+    text-decoration: none
+}
+
+#banner {
+    color: white
+}
+
+#banner .banner-header {
+    font-size: 1em;
+}
+
+.major p {
+    text-align: justify;
+}
+
+.features h5 {
+    margin-bottom: 20px
+}
+
+.companies img {
+    height: 75px;
+}
+
+.style6 {
+    background-color: #ffc400;
+}
+
+.labs img {
+    height: 10em;
+}
+
+.style7 {
+    background-color: #2b2b2b;
+}
+
+.profiles li {
+    display: inline-block;
+    padding: 10px;
+    text-align: center
+}
+
+.profiles li img {
+    height: 7em;
+}
