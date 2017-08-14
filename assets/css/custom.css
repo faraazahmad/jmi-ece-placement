@@ -2,6 +2,12 @@
     #banner {
         height: 100vh;
     }
+    .profiles {
+        margin-left: 60px;
+    }
+    .profiles li {
+        display: block;
+    }
 }
 
 .jmi-logo {
