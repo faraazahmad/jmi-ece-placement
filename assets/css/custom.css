@@ -63,3 +63,7 @@ a:hover {
 .profiles li img {
     height: 7em;
 }
+
+header p {
+    color: #fff !important
+}
